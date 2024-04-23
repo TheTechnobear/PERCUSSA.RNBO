@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cmake",
+			"label": "build ex01_VST3",
+			"command": "build",
+			"targets": [
+				"ex01_VST3"
+			],
+			"group": "build",
+			"problemMatcher": [],
+			"detail": "ex01_VST3"
+		}
+	]
+}
